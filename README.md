@@ -1,7 +1,7 @@
 ****************************************************
 cd $HOME
 *****************************************************
-git clone https://github.com/Hajimokhradi/Tabapi.git && cd ehsan_new_tab && chmod +x install && chmod +x start && ./install && ./start
+git clone https://github.com/Hajimokhradi/Tabapi.git && cd tabapi && chmod +x install && chmod +x start && ./install && ./start
 **************************************************************************
 ایدی تبچی را در فایل
 
